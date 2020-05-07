@@ -1,0 +1,55 @@
+Quiz1:
+
+The Python interpreter takes your code and converts it to the language that the computer’s hardware understands
+
+Answer: True
+
+
+Quiz2:
+
+Which of the following statements assigns the value 100 to the variable x in Python?
+A. x << 100
+B. x = 100
+C. let x = 100
+D. x <- 100
+
+Answer: B
+
+
+Quiz3:
+
+What is the value of the final statement?
+x=1
+y='1'
+x=y
+type(x)
+
+Answer: A. <class 'str'>
+
+
+Quiz4:
+
+x = "Faisal"
+y = 2
+z = 3
+print(x * y * z)
+
+Answer: FaisalFaisalFaisalFaisalFaisalFaisal
+
+
+Quiz5:
+
+x = "Faisal"
+y = 2
+z = 3
+print(x + y + x)
+
+Answer: TypeError: can only concatenate str (not "int") to str
+
+
+Quiz6:
+
+x = 36 / 4 * (3 +  2) * 4 + 2
+print(x)
+
+Answer: 182
