@@ -1,6 +1,6 @@
-Quiz0:
-What is your programming experience like ?
-A. No prorgamming experience
+Quiz0 :
+Before today, what was your programming experience like ?
+A. No prior programming experience
 B. Started some basic programming courses at MOOCs
 C. Have an IDE and have written some code
 
@@ -26,6 +26,17 @@ Answer: B
 
 Quiz3:
 
+x = 36 / 4 * (3 +  2) * 4 + 2
+print(x)
+
+Answer: 182
+
+
+---------------------------------
+DAY2
+
+Quiz4:
+
 What is the value of the final statement?
 x=1
 y='1'
@@ -35,29 +46,22 @@ type(x)
 Answer: A. <class 'str'>
 
 
-Quiz4:
+Quiz5:
 
-x = "Faisal"
+x = "Python"
 y = 2
 z = 3
 print(x * y * z)
 
-Answer: FaisalFaisalFaisalFaisalFaisalFaisal
+Answer: PythonPythonPythonPythonPythonPython
 
 
-Quiz5:
 
-x = "Faisal"
+Quiz6:
+
+x = "Python"
 y = 2
 z = 3
 print(x + y + x)
 
 Answer: TypeError: can only concatenate str (not "int") to str
-
-
-Quiz6:
-
-x = 36 / 4 * (3 +  2) * 4 + 2
-print(x)
-
-Answer: 182
