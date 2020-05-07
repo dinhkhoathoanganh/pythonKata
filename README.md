@@ -2,7 +2,7 @@
 
 
 ## Pre-requisite :
-Follow Day -1 Anaconda Setup.docx to install Anaconda on your home desktop/laptop (Windows/Macbook)
+Follow "Day -1 Anaconda Setup.docx" to install Anaconda on your home desktop/laptop (Windows/Macbook)
 
 ## Once installed, mentors/volunteers take students over day1,2,3,4 approximately 1 hour session per day 
 
