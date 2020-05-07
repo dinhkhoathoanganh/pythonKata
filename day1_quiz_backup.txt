@@ -1,3 +1,10 @@
+Quiz0:
+What is your programming experience like ?
+A. No prorgamming experience
+B. Started some basic programming courses at MOOCs
+C. Have an IDE and have written some code
+
+
 Quiz1:
 
 The Python interpreter takes your code and converts it to the language that the computer’s hardware understands
