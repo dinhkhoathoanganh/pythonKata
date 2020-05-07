@@ -32,6 +32,19 @@ print(x)
 Answer: 182
 
 
+Quiz Feedback:
+
+Did the session
+A. Exceed expectations
+B. Meet expectations
+C. Below expectations
+
+
+Was the speed of the course
+A. Too fast
+B. Just right
+C. Too slow
+
 ---------------------------------
 DAY2
 
