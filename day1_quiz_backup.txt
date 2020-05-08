@@ -32,6 +32,20 @@ print(x)
 Answer: 182
 
 
+Quiz4:
+
+a = 12 - 34 * 43 + 123
+b = 32 * 23 * 231 + a
+c = a + b
+ab = a - c
+ac = ab + 1
+bc = ac * 0
+cb = ab + 211
+print(bc)
+
+Answer: 0
+
+
 Quiz Feedback:
 
 Did the session
