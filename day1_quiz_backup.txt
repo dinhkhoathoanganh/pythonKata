@@ -1,0 +1,94 @@
+Quiz0 :
+Before today, what was your programming experience like ?
+A. No prior programming experience
+B. Started some basic programming courses at MOOCs
+C. Have an IDE and have written some code
+
+
+
+Quiz1:
+
+The Python interpreter takes your code and converts it to the language that the computer’s hardware understands
+
+Answer: True
+
+
+Quiz2:
+
+Which of the following statements assigns the value 100 to the variable x in Python?
+A. x << 100
+B. x = 100
+C. let x = 100
+D. x <- 100
+
+Answer: B
+
+
+Quiz3:
+
+x = 36 / 4 * (3 +  2) * 4 + 2
+print(x)
+
+Answer: 182
+
+
+Quiz4:
+
+a = 12 - 34 * 43 + 123
+b = 32 * 23 * 231 + a
+c = a + b
+ab = a - c
+ac = ab + 1
+bc = ac * 0
+cb = ab + 211
+print(bc)
+
+Answer: 0
+
+
+Quiz Feedback:
+
+Did the session
+A. Exceed expectations
+B. Meet expectations
+C. Below expectations
+
+
+Was the speed of the course
+A. Too fast
+B. Just right
+C. Too slow
+
+---------------------------------
+DAY2
+
+Quiz4:
+
+What is the value of the final statement?
+x=1
+y='1'
+x=y
+type(x)
+
+Answer: A. <class 'str'>
+
+
+Quiz5:
+
+x = "Python"
+y = 2
+z = 3
+print(x * y * z)
+
+Answer: PythonPythonPythonPythonPythonPython
+
+
+
+Quiz6:
+
+x = "Python"
+y = 2
+z = 3
+print(x + y + x)
+
+Answer: TypeError: can only concatenate str (not "int") to str
