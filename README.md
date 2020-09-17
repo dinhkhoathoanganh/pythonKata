@@ -24,3 +24,7 @@ apwe.outreach2@gmail.com
 1. Log in to the account as per above
 2. Click Groups in the top bar
 3. Click apweoutreach group and find the quizzes inside.
+
+
+## Python Colan Notebook link
+https://drive.google.com/drive/folders/17akM16GuFx9GoNRnCzMDUB1tRpHy24Rc?usp=sharing
