@@ -1,7 +1,14 @@
 # pythonKata
 
 ## Python Colab Notebook link
+Interal
 https://drive.google.com/drive/folders/17akM16GuFx9GoNRnCzMDUB1tRpHy24Rc?usp=sharing
+
+part1_with_answers.ipynb
+https://colab.research.google.com/drive/1KYHZ9DVmd-OllJn76wrbrxGzreTjwsks?usp=sharing
+
+part2_with_answers.ipynb
+https://colab.research.google.com/drive/1eLVyuN4rZioGBghL7F62fMqYA0GELD-3?usp=sharing
 
 
 ## Pre-requisite :
