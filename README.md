@@ -1,5 +1,13 @@
 # pythonKata
 
+## Python Colab Notebook link - Turtle
+Part0 - student copy: https://colab.research.google.com/drive/1Jrb_o0jDyU5LeTG_sJZDniKE_41Pa4w2?usp=sharing
+Part1 - student copy: https://colab.research.google.com/drive/1ogz_ggLgZSXpy0mTxFaL7Ehl-yAszvRr?usp=sharing
+Part2 - student copy: https://colab.research.google.com/drive/1LGmLCzQsrI2B8OCzaJkYMHzQnXEjfBEa?usp=sharing
+Part3 - student copy: https://colab.research.google.com/drive/1I8SdtrbYUEt_6ZYN3IuVnkLfTwBS9wsd?usp=sharing
+Part4 - student copy: https://colab.research.google.com/drive/197WryDJghYv0_XrVqzMR0b1QHL8k302Z?usp=sharing
+
+
 ## Python Colab Notebook link
 Interal
 https://drive.google.com/drive/folders/17akM16GuFx9GoNRnCzMDUB1tRpHy24Rc?usp=sharing
