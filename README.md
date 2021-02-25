@@ -11,6 +11,17 @@ Part3 - student copy: https://colab.research.google.com/drive/1I8SdtrbYUEt_6ZYN3
 
 Part4 - student copy: https://colab.research.google.com/drive/197WryDJghYv0_XrVqzMR0b1QHL8k302Z?usp=sharing
 
+Part0 - with answers: https://colab.research.google.com/drive/15dcM4__YSzydpV_oMvQAJPJIWccOvbqs?usp=sharing
+
+Part1 - with answers: https://colab.research.google.com/drive/1vUIAj8aBEAtA7M6e7XLN36-LQpif6zUL?usp=sharing
+
+Part2 - with answers: https://colab.research.google.com/drive/18SwdFKh3_UOt6990yTr7WUydLpfjpxp1?usp=sharing
+
+Part3 - with answers: https://colab.research.google.com/drive/10QPKZ1Up54UOCxvHOTdlBTTN1--BC_Rx?usp=sharing
+
+Part4 - with answers: https://colab.research.google.com/drive/16_VvsTXeZ5nt1nDl1SUNnN7YWk3J4W7L?usp=sharing
+
+
 
 ## Python Colab Notebook link
 Interal
