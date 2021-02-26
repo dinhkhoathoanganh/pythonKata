@@ -24,26 +24,22 @@ Part4 - with answers: https://colab.research.google.com/drive/16_VvsTXeZ5nt1nDl1
 
 
 ## Python Colab Notebook link
-Interal
-https://drive.google.com/drive/folders/17akM16GuFx9GoNRnCzMDUB1tRpHy24Rc?usp=sharing
-
-part1_with_answers.ipynb
-https://colab.research.google.com/drive/1KYHZ9DVmd-OllJn76wrbrxGzreTjwsks?usp=sharing
-
-part2_with_answers.ipynb
-https://colab.research.google.com/drive/1eLVyuN4rZioGBghL7F62fMqYA0GELD-3?usp=sharing
 
 apwe_simple_bot.ipynb
-https://colab.research.google.com/drive/1pXPlBVzKKZ8yhfSjTuuZbx6Ee8BzoTck#scrollTo=TyttAQVCn-Kb
+
+https://colab.research.google.com/drive/1pXPlBVzKKZ8yhfSjTuuZbx6Ee8BzoTck?usp=sharing
 
 movie_bot_student.ipynb
-https://colab.research.google.com/drive/1bIqszYqCk_qjJIkus_CyInhW28v17EWb#scrollTo=1PozgtoiPRb_
+https://colab.research.google.com/drive/1bIqszYqCk_qjJIkus_CyInhW28v17EWb?usp=sharing
+
+view_dog_picture_bot.ipynb (Optional if have time)
+https://colab.research.google.com/drive/1ujEOGXKluzDRwU9CV7JCSBsDtH1rhoQZ?usp=sharing
+
 
 movie_bot_teacher.ipynb
 https://colab.research.google.com/drive/1LiLpo_stOizaXj9XvFgE938C1W9ERMey#scrollTo=KNcDwE31PK_N
 
-view_dog_picture_bot.ipynb (Optional if have time)
-https://colab.research.google.com/drive/1ujEOGXKluzDRwU9CV7JCSBsDtH1rhoQZ#scrollTo=MBFGW-jrJ9GZ
+
 
 ## Pre-requisite :
 Follow "Day -1 Anaconda Setup.docx" to install Anaconda on your home desktop/laptop (Windows/Macbook)
