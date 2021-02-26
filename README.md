@@ -30,7 +30,7 @@ apwe_simple_bot.ipynb
 https://colab.research.google.com/drive/1pXPlBVzKKZ8yhfSjTuuZbx6Ee8BzoTck?usp=sharing
 
 movie_bot_student.ipynb
-https://colab.research.google.com/drive/1bIqszYqCk_qjJIkus_CyInhW28v17EWb?usp=sharing
+https://colab.research.google.com/drive/1N-nUuzpMb1w7gPsWRaSeRsk5z8iLcDoI?usp=sharing
 
 view_dog_picture_bot.ipynb (Optional if have time)
 https://colab.research.google.com/drive/1ujEOGXKluzDRwU9CV7JCSBsDtH1rhoQZ?usp=sharing
