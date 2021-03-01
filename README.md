@@ -37,8 +37,7 @@ https://colab.research.google.com/drive/1ujEOGXKluzDRwU9CV7JCSBsDtH1rhoQZ?usp=sh
 
 
 movie_bot_teacher.ipynb
-https://colab.research.google.com/drive/1LiLpo_stOizaXj9XvFgE938C1W9ERMey#scrollTo=KNcDwE31PK_N
-
+https://colab.research.google.com/drive/1LiLpo_stOizaXj9XvFgE938C1W9ERMey?usp=sharing
 
 
 ## Pre-requisite :
