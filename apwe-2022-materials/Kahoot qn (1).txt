@@ -1,0 +1,13 @@
+1. What does STEM stand for?
+- Science, technology, engineering and math
+2. What does LED stand for?
+- Light-emitting diode
+3. Which is not a programming language?
+- Pascal, Python, Camel, Stark
+4. What are people who write computer code called?
+- Programmers, manufacturers, Cryptographers, Professors
+5. What word describes the set of instructions that computers need to do work?
+- Blueprint, Agenda, Sypnopsis, Program
+6. Which of these does NOT run using a computer program?
+- Train, Car, Bicycle, Rocket
+
